@@ -1,0 +1,40 @@
+ul{list-style-type: none;
+overflow: hidden;
+background-color: gray;
+color: aliceblue;
+font-size: 20px;}
+
+li{float: left;
+padding: 25px;}
+
+li:hover{background-color: brown;}
+body{background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbdb4f38-94c9-45d2-bd44-a598d94a4dc0/d4gz4lh-1fc5a06f-dc74-4cc7-bb20-8146e35ee3f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiZGI0ZjM4LTk0YzktNDVkMi1iZDQ0LWE1OThkOTRhNGRjMFwvZDRnejRsaC0xZmM1YTA2Zi1kYzc0LTRjYzctYmIyMC04MTQ2ZTM1ZWUzZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nZ9DK7pHdUXRrbU6pLvU2HfJzeUAov47QwCaBzmRDlY);
+background-size: 100%,100%;
+background-attachment: fixed;}
+
+.lenovo{font-size: 60px;
+font-family: fantasy;
+text-align: center;}
+
+.dark{font-size: 25px;
+font-family: fantasy;
+color:lavender;
+text-align: center;}
+
+.content{color:wheat}
+.about{text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.new{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:whitesmoke;}
+
+.final{color: aliceblue;
+text-align: center;
+font-family:cursive}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
